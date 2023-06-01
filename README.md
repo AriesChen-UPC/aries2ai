@@ -1,4 +1,6 @@
-### Aries's AI
+### Aries's Space
 ---
 ##### About me
-Hi there, my name is Aries and I am currently a graduate student majoring in geophysics at the China University of Petroleum. In my spare time, I enjoy reading and running marathons. 
+Greetings! My name is Aries Chen, and I am currently pursuing my graduate studies in the fascinating field of geophysics at the prestigious China University of Petroleum.
+
+Outside of my academic endeavors, I am an avid reader with a voracious appetite for a wide range of literature, and I take great pleasure in challenging my physical endurance by participating in marathon races.
